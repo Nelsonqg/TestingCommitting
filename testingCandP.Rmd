@@ -15,8 +15,12 @@ knitr::opts_chunk$set(echo = TRUE)
 #test 2 to push origin
 #creating branch
 
+
+#mmodifiyng  main after creating and pushing branch2
 ```
 
 Test 1 writting the text
 Test2  to push origin 
 creating branch
+
+#modifiyng  main after creating and pushing branch2
