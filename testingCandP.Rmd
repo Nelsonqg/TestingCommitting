@@ -14,21 +14,21 @@ knitr::opts_chunk$set(echo = TRUE)
 #Testt1 writting the document
 #test 2 to push origin
 #creating branch
-<<<<<<< HEAD
+
 
 
 #mmodifiyng  main after creating and pushing branch2
-=======
-modifyng branch
->>>>>>> branchchangesmain
+
+modifyng branch 
+
 ```
 
 Test 1 writting the text
 Test2  to push origin 
 creating branch
 
-<<<<<<< HEAD
+
 #modifiyng  main after creating and pushing branch2
-=======
+
 modifyng branch
->>>>>>> branchchangesmain
+
